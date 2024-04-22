@@ -1,0 +1,8 @@
+auto request on 3 seconds: check for if current used ////// DONE
+delete button ////// DONE
+
+
+catch errors //// DONE +-
+design that shit
+add more info about credits
+github
